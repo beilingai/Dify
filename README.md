@@ -15,6 +15,6 @@ https://docs.dify.ai/zh-hans
 👉 关注公众号获取最新更新  
 ![扫码关注](https://gitee.com/beilingcc/pic/raw/master/20250321230721476.png)
 
-零基础AI学习交流群🤖，有兴趣的可以加入，关于 AI 的各种问题都可以一起讨论  
+零基础AI学习交流群🤖，群里有全套教程的资料和源码，加入即可领取
 主群已经超200人了，加群主好友备注 Dify，拉你到人多的大群。如果加不上，可以稍后再添加⏳  
 ![加微信好友](https://gitee.com/beilingcc/pic/raw/master/20250322154144504.png)
