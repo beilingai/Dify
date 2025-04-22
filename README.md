@@ -1,9 +1,6 @@
 # Dify
 Dify Guides(Dify教程)
 
-中文文档  
-https://docs.dify.ai/zh-hans
-
 🔥《零基础小白AI实战教程：手把手教你打造专属的智能体》🚀  系列教程更新中！  
 ✅ 已更新：AI实践虚拟化平台安装  
 ✅ 已更新：Docker Desktop 安装  
