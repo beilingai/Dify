@@ -16,6 +16,8 @@ Dify Guides(Dify教程)
 ✅ 已更新：RagFlow本地部署和使用   
 ✅ 已更新：基于大模型的智能问数NL2SQL  
 ✅ 已更新：用通俗易懂的话告诉你MCP是什么，MCP的使用  
+✅ 已更新：MCP接入方式介绍
+✅ 已更新：3分钟教你开发一个自己的MCP服务
 
 👉 关注公众号"北灵聊AI"获取最新更新  
 ![扫码关注](https://gitee.com/beilingcc/pic/raw/master/20250321230721476.png)
